@@ -5,8 +5,8 @@
 
 1. **Клонируйте репозиторий**  
    ```bash
-   git clone https://github.com/yourusername/poetry-continuation-api.git
-   cd poetry-continuation-api
+   git clone git@github.com:KsuZavyalova/poem_generator.git
+   cd poem_generator
 2. **Скачайте модели по ссылке**  
 https://drive.google.com/drive/folders/1NlOr0GRGB3UwLl2_FOyVGOxSVxn0A-9x?usp=sharing
 
